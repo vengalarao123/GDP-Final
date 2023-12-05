@@ -1,6 +1,6 @@
 <? $this->load->view('includes/header') ?>
 <!-- End Header -->
-  
+  <!-- internal styling  -->
   <style>
     .content {
       margin-top: 70px; /* Adjust the value as needed */
